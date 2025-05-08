@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Sandatya Widhiyanti</h1>
 <h3 align="center">I am a lecturer and teacher in the field of software development. I have a passion for everything related to information technology.</h3>
 
