@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandatya Widhiyanti</h1>
 <h3 align="center">I am a lecturer and teacher in the field of software development. I have a passion for everything related to information technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandatya21&label=Profile%20views&color=0e75b6&style=flat" alt="sandatya21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandatya21" alt="sandatya21" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, AI**
 
 - 👨‍💻 All of my projects are available at [https://scholar.google.com/citations?user=4SDkqjIAAAAJ&hl=en](https://scholar.google.com/citations?user=4SDkqjIAAAAJ&hl=en)
